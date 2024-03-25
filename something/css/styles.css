@@ -1,5 +1,5 @@
 body {
-    background-color: burlywood;
+    background-color: brown;
 }
 
 h1 {
@@ -18,10 +18,11 @@ button {
     color: blue;
 
 }
-h3{
-text-align: none;
-color: blue;
-font-size: x-large;
+
+h3 {
+    text-align: none;
+    color: blue;
+    font-size: x-large;
 
 
 }
